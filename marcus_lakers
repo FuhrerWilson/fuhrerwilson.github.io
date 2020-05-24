@@ -1,6 +1,6 @@
 /*BEGIN PS3 White Controller Styling*/
 .controller.ps.white {
-    background-image: url(http://fuhrerwilson.github.io/lakers.png);
+    background-image: url(https://fuhrerwilson.github.io/lakers.png);
 }
 
 .ps.white.disconnected {
